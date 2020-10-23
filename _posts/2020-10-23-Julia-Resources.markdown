@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning Resources"
-date:   2020-10-22 14:00:00 +0200
+date:   2020-10-23 14:00:00 +0200
 categories: julia trieste
 ---
 
