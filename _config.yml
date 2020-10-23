@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   are interested in or already enjoying the Julia programming language. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://julia-trieste.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: julia-trieste
+twitter_username: @JuliaTrieste
 github_username:  julia-trieste
 
 # Build settings
