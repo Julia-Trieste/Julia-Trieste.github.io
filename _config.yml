@@ -30,8 +30,7 @@ twitter_username: JuliaTrieste
 github_username:  julia-trieste
 
 # Build settings
-theme: jekyll-theme-minimal
-#theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
